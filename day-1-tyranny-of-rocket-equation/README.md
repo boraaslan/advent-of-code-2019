@@ -35,4 +35,5 @@ What is the sum of the fuel requirements for all of the modules on your spacecra
 
 ## References
 https://adventofcode.com/2019/day/1
+
 This page is copied from https://github.com/adriennetacke/
