@@ -11,10 +11,12 @@ public class Main {
     static ArrayList<String> passwords = new ArrayList<String>();
 
     public static void main(String[] args) {
+        //part1
         GenerateAllPassword();
         savePasswordsFile("pass.txt",passwords);
         System.out.println("Part1:" + passwords.size());
-
+        
+        //part2
         removeLargerGroups();
         savePasswordsFile("final.txt",passwords);
         System.out.println("Part2:" + passwords.size());
@@ -42,11 +44,7 @@ public class Main {
                 if(!temp.contains(2))
                     passwords.set(passwords.indexOf(p),"x");
         }
-
         passwords.removeIf(p->p.equals("x"));
-
-
-
     }
 
     //this function is for password criteria of two adjacent digits
@@ -81,9 +79,7 @@ public class Main {
 
             if(!isTwoAdjacentDigits(i+""))
                 continue;
-
-
-
+            
             passwords.add(i+"");
         }
 
