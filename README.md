@@ -7,3 +7,14 @@ Santa has become stranded at the edge of the Solar System while delivering prese
 Collect stars by solving puzzles. Two puzzles will be made available on each day in the Advent calendar; the second puzzle is unlocked when you complete the first. Each puzzle grants one star. Good luck!
 
 The Elves quickly load you into a spacecraft and prepare to launch.
+
+- [x] \(Optional) Day1
+- [x] \(Optional) Day2
+- [x] \(Optional) Day3
+- [x] \(Optional) Day4
+- [ ] \(Optional) Day5
+- [ ] \(Optional) Day6
+- [ ] \(Optional) Day7
+- [ ] \(Optional) Day8
+- [ ] \(Optional) Day9
+- [ ] \(Optional) Day10
