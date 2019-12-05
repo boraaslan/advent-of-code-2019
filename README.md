@@ -8,13 +8,13 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 
 The Elves quickly load you into a spacecraft and prepare to launch.
 
-- [x] \(Optional) Day1
-- [x] \(Optional) Day2
-- [x] \(Optional) Day3
-- [x] \(Optional) Day4
-- [ ] \(Optional) Day5
-- [ ] \(Optional) Day6
-- [ ] \(Optional) Day7
-- [ ] \(Optional) Day8
-- [ ] \(Optional) Day9
-- [ ] \(Optional) Day10
+- [x] Day1
+- [x] Day2
+- [x] Day3
+- [x] Day4
+- [ ] Day5
+- [ ] Day6
+- [ ] Day7
+- [ ] Day8
+- [ ] Day9
+- [ ] Day10
